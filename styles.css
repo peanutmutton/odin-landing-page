@@ -1,0 +1,26 @@
+* {
+    font-family: Roboto;
+}
+
+
+.navbar {
+    background-color: #1F2937;
+    display: flex;
+    color: #F9FAF8;
+}
+
+.navbar a {
+    flex: 1;
+}
+
+.webinfo {
+    background-color: #1F2937;
+}
+
+.hero {
+    color: #F9FAF8;
+    font-size:  48px;
+    font: bold;
+    
+    
+}
