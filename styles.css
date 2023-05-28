@@ -2,25 +2,39 @@
     font-family: Roboto;
 }
 
+body {
+    margin: 0px;
+}
 
 .navbar {
     background-color: #1F2937;
     display: flex;
     color: #F9FAF8;
+    margin-bottom: 0px;
+    padding: 10px;
+    padding-left: 100px;
+
 }
 
 .navbar a {
     flex: 1;
 }
+.navbar .logo {
+    flex: 5;
+}
 
 .webinfo {
     background-color: #1F2937;
+    margin-top: 0px;
+    padding: 10px;
+    padding-left: 100px;
+    padding-top: 80px;
 }
 
 .hero {
     color: #F9FAF8;
     font-size:  48px;
     font: bold;
-    
+    margin-top: 0px;
     
 }
